@@ -1,0 +1,16 @@
+// Colors
+$color-black        : #0D2A4A;
+$color-purple       : #7070D5;
+$color-red          : #FC4A33;
+$color-grey         : #A3ADBF;
+$color-grey-light   : #F5F5F7;
+$color-white        : #FFFFFF;
+
+$colors: (
+  'black'        : $color-black,
+  'purple'       : $color-purple,
+  'red'          : $color-red,
+  'grey'         : $color-grey,
+  'grey-light'   : $color-grey-light,
+  'white'        : $color-white
+);
